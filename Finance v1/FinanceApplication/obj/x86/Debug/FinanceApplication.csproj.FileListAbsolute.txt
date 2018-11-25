@@ -1,0 +1,127 @@
+C:\Users\x8v2\Desktop\My works\FinanceApplication\FinanceApplication\bin\Debug\FinanceApplication.exe.config
+C:\Users\x8v2\Desktop\My works\FinanceApplication\FinanceApplication\obj\x86\Debug\Resources\DefaultTheme.baml
+C:\Users\x8v2\Desktop\My works\FinanceApplication\FinanceApplication\obj\x86\Debug\App.baml
+C:\Users\x8v2\Desktop\My works\FinanceApplication\FinanceApplication\obj\x86\Debug\App.g.cs
+C:\Users\x8v2\Desktop\My works\FinanceApplication\FinanceApplication\obj\x86\Debug\FinanceApplication_MarkupCompile.cache
+C:\Users\x8v2\Desktop\My works\FinanceApplication\FinanceApplication\obj\x86\Debug\FinanceApplication_MarkupCompile.lref
+C:\Users\x8v2\Desktop\My works\FinanceApplication\FinanceApplication\obj\x86\Debug\View\FinanceApplicationMainWindow.baml
+C:\Users\x8v2\Desktop\My works\FinanceApplication\FinanceApplication\obj\x86\Debug\View\FinanceApplicationMainWindow.g.cs
+C:\Users\x8v2\Desktop\My works\FinanceApplication\FinanceApplication\bin\Debug\FinanceApplication.exe
+C:\Users\x8v2\Desktop\My works\FinanceApplication\FinanceApplication\bin\Debug\FinanceApplication.pdb
+C:\Users\x8v2\Desktop\My works\FinanceApplication\FinanceApplication\obj\x86\Debug\Resources\FinanceApplicationResources.baml
+C:\Users\x8v2\Desktop\My works\FinanceApplication\FinanceApplication\obj\x86\Debug\FinanceApplication.g.resources
+C:\Users\x8v2\Desktop\My works\FinanceApplication\FinanceApplication\obj\x86\Debug\FinanceApplication.Properties.Resources.resources
+C:\Users\x8v2\Desktop\My works\FinanceApplication\FinanceApplication\obj\x86\Debug\FinanceApplication.csproj.GenerateResource.Cache
+C:\Users\x8v2\Desktop\My works\FinanceApplication\FinanceApplication\obj\x86\Debug\FinanceApplication.exe
+C:\Users\x8v2\Desktop\My works\FinanceApplication\FinanceApplication\obj\x86\Debug\FinanceApplication.pdb
+C:\Users\Siddharth\Downloads\Compressed\FinanceApplication\FinanceApplication\FinanceApplication\bin\Debug\FinanceApplication.exe.config
+C:\Users\Siddharth\Downloads\Compressed\FinanceApplication\FinanceApplication\FinanceApplication\obj\x86\Debug\Resources\DefaultTheme.baml
+C:\Users\Siddharth\Downloads\Compressed\FinanceApplication\FinanceApplication\FinanceApplication\obj\x86\Debug\View\FinanceApplicationMainWindow.baml
+C:\Users\Siddharth\Downloads\Compressed\FinanceApplication\FinanceApplication\FinanceApplication\obj\x86\Debug\App.baml
+C:\Users\Siddharth\Downloads\Compressed\FinanceApplication\FinanceApplication\FinanceApplication\obj\x86\Debug\View\FinanceApplicationMainWindow.g.cs
+C:\Users\Siddharth\Downloads\Compressed\FinanceApplication\FinanceApplication\FinanceApplication\obj\x86\Debug\App.g.cs
+C:\Users\Siddharth\Downloads\Compressed\FinanceApplication\FinanceApplication\FinanceApplication\obj\x86\Debug\FinanceApplication_MarkupCompile.cache
+C:\Users\Siddharth\Downloads\Compressed\FinanceApplication\FinanceApplication\FinanceApplication\obj\x86\Debug\FinanceApplication_MarkupCompile.lref
+C:\Users\Siddharth\Downloads\Compressed\FinanceApplication\FinanceApplication\FinanceApplication\bin\Debug\FinanceApplication.exe
+C:\Users\Siddharth\Downloads\Compressed\FinanceApplication\FinanceApplication\FinanceApplication\bin\Debug\FinanceApplication.pdb
+C:\Users\Siddharth\Downloads\Compressed\FinanceApplication\FinanceApplication\FinanceApplication\obj\x86\Debug\Resources\FinanceApplicationResources.baml
+C:\Users\Siddharth\Downloads\Compressed\FinanceApplication\FinanceApplication\FinanceApplication\obj\x86\Debug\FinanceApplication.g.resources
+C:\Users\Siddharth\Downloads\Compressed\FinanceApplication\FinanceApplication\FinanceApplication\obj\x86\Debug\FinanceApplication.Properties.Resources.resources
+C:\Users\Siddharth\Downloads\Compressed\FinanceApplication\FinanceApplication\FinanceApplication\obj\x86\Debug\FinanceApplication.csproj.GenerateResource.Cache
+C:\Users\Siddharth\Downloads\Compressed\FinanceApplication\FinanceApplication\FinanceApplication\obj\x86\Debug\FinanceApplication.exe
+C:\Users\Siddharth\Downloads\Compressed\FinanceApplication\FinanceApplication\FinanceApplication\obj\x86\Debug\FinanceApplication.pdb
+C:\Users\Siddharth\Downloads\Compressed\FinanceApplication\FinanceApplication\FinanceApplication\obj\x86\Debug\FinanceApplication.csprojResolveAssemblyReference.cache
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\Resources\DefaultTheme.baml
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\App.baml
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\View\FinanceApplicationMainWindow.g.cs
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\App.g.cs
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\FinanceApplication_Content.g.cs
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\FinanceApplication_MarkupCompile.cache
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\FinanceApplication_MarkupCompile.lref
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\Resources\FinanceApplicationResources.baml
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\FinanceApplication.exe
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\FinanceApplication.pdb
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\bin\Debug\FinanceApplication.exe.config
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\bin\Debug\FinanceApplication.exe
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\bin\Debug\FinanceApplication.pdb
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\View\FinanceApplicationMainWindow.baml
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\FinanceApplication.g.resources
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\FinanceApplication.Properties.Resources.resources
+C:\Users\x8v2\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\FinanceApplication.csproj.GenerateResource.Cache
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\bin\Debug\FinanceApplication.exe.config
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\FinanceApplication.exe
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\FinanceApplication.pdb
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\bin\Debug\FinanceApplication.exe
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\bin\Debug\FinanceApplication.pdb
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\Resources\DefaultTheme.baml
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\App.baml
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\View\FinanceApplicationMainWindow.g.cs
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\App.g.cs
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\FinanceApplication_Content.g.cs
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\FinanceApplication_MarkupCompile.cache
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\FinanceApplication_MarkupCompile.lref
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\Resources\FinanceApplicationResources.baml
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\View\FinanceApplicationMainWindow.baml
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\FinanceApplication.g.resources
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\FinanceApplication.Properties.Resources.resources
+D:\Siddhu\Desktop\My works\FinanceApplication (2)\FinanceApplication\obj\x86\Debug\FinanceApplication.csproj.GenerateResource.Cache
+F:\Projects\Finance\FinanceApplication\bin\Debug\FinanceApplication.exe.config
+F:\Projects\Finance\FinanceApplication\obj\x86\Debug\FinanceApplication.exe
+F:\Projects\Finance\FinanceApplication\obj\x86\Debug\FinanceApplication.pdb
+F:\Projects\Finance\FinanceApplication\bin\Debug\FinanceApplication.exe
+F:\Projects\Finance\FinanceApplication\bin\Debug\FinanceApplication.pdb
+F:\Projects\Finance\FinanceApplication\obj\x86\Debug\Resources\DefaultTheme.baml
+F:\Projects\Finance\FinanceApplication\obj\x86\Debug\App.baml
+F:\Projects\Finance\FinanceApplication\obj\x86\Debug\View\FinanceApplicationMainWindow.g.cs
+F:\Projects\Finance\FinanceApplication\obj\x86\Debug\App.g.cs
+F:\Projects\Finance\FinanceApplication\obj\x86\Debug\FinanceApplication_Content.g.cs
+F:\Projects\Finance\FinanceApplication\obj\x86\Debug\FinanceApplication_MarkupCompile.cache
+F:\Projects\Finance\FinanceApplication\obj\x86\Debug\FinanceApplication_MarkupCompile.lref
+F:\Projects\Finance\FinanceApplication\obj\x86\Debug\Resources\FinanceApplicationResources.baml
+F:\Projects\Finance\FinanceApplication\obj\x86\Debug\View\FinanceApplicationMainWindow.baml
+F:\Projects\Finance\FinanceApplication\obj\x86\Debug\FinanceApplication.g.resources
+F:\Projects\Finance\FinanceApplication\obj\x86\Debug\FinanceApplication.Properties.Resources.resources
+F:\Projects\Finance\FinanceApplication\obj\x86\Debug\FinanceApplication.csproj.GenerateResource.Cache
+F:\Projects\Finance\FinanceApplication\bin\Debug\RSA.Common.Utilities.dll
+F:\Projects\Finance\FinanceApplication\obj\x86\Debug\FinanceApplication.csprojResolveAssemblyReference.cache
+D:\Finance\FinanceApplication\bin\Debug\FinanceApplication.exe
+D:\Finance\FinanceApplication\bin\Debug\RSA.Common.Utilities.dll
+D:\Finance\FinanceApplication\bin\Debug\FinanceApplication.exe.config
+D:\Finance\FinanceApplication\bin\Debug\FinanceApplication.pdb
+D:\Finance\FinanceApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Finance\FinanceApplication\obj\x86\Debug\Resources\DefaultTheme.baml
+D:\Finance\FinanceApplication\obj\x86\Debug\App.baml
+D:\Finance\FinanceApplication\obj\x86\Debug\View\FinanceApplicationMainWindow.g.cs
+D:\Finance\FinanceApplication\obj\x86\Debug\App.g.cs
+D:\Finance\FinanceApplication\obj\x86\Debug\FinanceApplication_Content.g.cs
+D:\Finance\FinanceApplication\obj\x86\Debug\FinanceApplication_MarkupCompile.cache
+D:\Finance\FinanceApplication\obj\x86\Debug\FinanceApplication_MarkupCompile.lref
+D:\Finance\FinanceApplication\obj\x86\Debug\Resources\FinanceApplicationResources.baml
+D:\Finance\FinanceApplication\obj\x86\Debug\View\FinanceApplicationMainWindow.baml
+D:\Finance\FinanceApplication\obj\x86\Debug\FinanceApplication.g.resources
+D:\Finance\FinanceApplication\obj\x86\Debug\FinanceApplication.Properties.Resources.resources
+D:\Finance\FinanceApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Finance\FinanceApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Finance\FinanceApplication\obj\x86\Debug\FinanceApplication.exe
+D:\Finance\FinanceApplication\obj\x86\Debug\FinanceApplication.pdb
+F:\Projects\Finance Release\Finance v1\FinanceApplication\bin\Debug\FinanceApplication.exe.config
+F:\Projects\Finance Release\Finance v1\FinanceApplication\obj\x86\Debug\FinanceApplication.exe
+F:\Projects\Finance Release\Finance v1\FinanceApplication\obj\x86\Debug\FinanceApplication.pdb
+F:\Projects\Finance Release\Finance v1\FinanceApplication\obj\x86\Debug\FinanceApplication.csprojResolveAssemblyReference.cache
+F:\Projects\Finance Release\Finance v1\FinanceApplication\obj\x86\Debug\Resources\DefaultTheme.baml
+F:\Projects\Finance Release\Finance v1\FinanceApplication\obj\x86\Debug\App.baml
+F:\Projects\Finance Release\Finance v1\FinanceApplication\obj\x86\Debug\View\FinanceApplicationMainWindow.g.cs
+F:\Projects\Finance Release\Finance v1\FinanceApplication\obj\x86\Debug\App.g.cs
+F:\Projects\Finance Release\Finance v1\FinanceApplication\obj\x86\Debug\FinanceApplication_Content.g.cs
+F:\Projects\Finance Release\Finance v1\FinanceApplication\obj\x86\Debug\FinanceApplication_MarkupCompile.cache
+F:\Projects\Finance Release\Finance v1\FinanceApplication\obj\x86\Debug\FinanceApplication_MarkupCompile.lref
+F:\Projects\Finance Release\Finance v1\FinanceApplication\bin\Debug\FinanceApplication.exe
+F:\Projects\Finance Release\Finance v1\FinanceApplication\bin\Debug\FinanceApplication.pdb
+F:\Projects\Finance Release\Finance v1\FinanceApplication\bin\Debug\RSA.Common.Utilities.dll
+F:\Projects\Finance Release\Finance v1\FinanceApplication\obj\x86\Debug\Resources\FinanceApplicationResources.baml
+F:\Projects\Finance Release\Finance v1\FinanceApplication\obj\x86\Debug\View\FinanceApplicationMainWindow.baml
+F:\Projects\Finance Release\Finance v1\FinanceApplication\obj\x86\Debug\FinanceApplication.g.resources
+F:\Projects\Finance Release\Finance v1\FinanceApplication\obj\x86\Debug\FinanceApplication.Properties.Resources.resources
+F:\Projects\Finance Release\Finance v1\FinanceApplication\obj\x86\Debug\FinanceApplication.csproj.GenerateResource.Cache
